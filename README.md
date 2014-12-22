@@ -35,40 +35,45 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A short discourse of the three kindes of peppers in common vse and certaine special medicines made o
+AS in former yeeres at
+this ſeaſon I haue been
+alwaies careful to ſhew
+my ſpecial affection towards 
 #####Body#####
 
-1. Pepper.
+1. Of the Spice called
 
-1. The kinds of Pepper.
+    _ Pepper.
 
-1. How to chooſe pepper.
+    _ The kinds of Pepper.
 
-1. Of the temperament of Pepper.
+    _ How to chooſe pepper.
 
-1. The temperament of Siliquastrum, or
+    _ Of the temperament of Pepper.
+
+    _ The temperament of Siliquastrum, or
 Indian Pepper.
 
-1. The vertues and faculties of
+    _ The vertues and faculties of
 Pepper.
 
-1. Diaſpoliticon.
+    _ Diaſpoliticon.
 
-1. Diacalaminthe.
+    _ Diacalaminthe.
 
-1. The priuate properties of the medicine
+    _ The priuate properties of the medicine
 called Diaſpoliticon.
 
-1. The particular faculties and properties of
+    _ The particular faculties and properties of
 Diatrion Pipereon.
 
-1. The priuate properties of the medicine
+    _ The priuate properties of the medicine
 called Diacalaminthe.
 
-1. The maner and particular vſe of the
+    _ The maner and particular vſe of the
 foreſaid medicines.
 
-1. The vſe of Diatrion pipereon, and of Diacalaminthe:
+    _ The vſe of Diatrion pipereon, and of Diacalaminthe:
 out of Galen. 4.
 De ſanit. tuend.
 
